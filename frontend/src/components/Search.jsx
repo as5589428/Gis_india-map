@@ -25,16 +25,16 @@ const Search = ({ onSearch }) => {
 
   return (
     <div className="absolute top-24 left-24 w-80 bg-white dark:bg-gray-900 shadow-[0_20px_50px_rgba(0,0,0,0.25)] rounded-3xl overflow-hidden z-[1001] border-2 border-gray-200 dark:border-gray-800 transition-all duration-300 ring-4 ring-black/5 dark:ring-white/5">
-      <form onSubmit={handleSearch} className="flex items-center px-4 py-3 bg-gray-50/50 border-b border-gray-100">
+      <form onSubmit={handleSearch} className="flex items-center px-4 py-3 bg-gray-50/50 dark:bg-gray-800/50 border-b border-gray-100 dark:border-gray-800">
         <SearchIcon className={`text-gray-400 mr-3 ${loading ? 'animate-pulse text-blue-500' : ''}`} size={20} />
         <input
           type="text"
           value={query}
           onChange={(e) => setQuery(e.target.value)}
           placeholder="Search Nagpur Metro, Mumbai Airport..."
-          className="bg-transparent outline-none flex-1 text-sm text-gray-800 placeholder-gray-400"
+          className="bg-transparent outline-none flex-1 text-sm text-gray-800 dark:text-gray-100 placeholder-gray-400 dark:placeholder-gray-500"
         />
-        {query && <X className="text-gray-400 cursor-pointer hover:text-red-500" size={18} onClick={() => {setQuery(''); setResults([]);}} />}
+        {query && <X className="text-gray-400 dark:text-gray-500 cursor-pointer hover:text-red-500 dark:hover:text-red-400" size={18} onClick={() => {setQuery(''); setResults([]);}} />}
       </form>
 
       {results.length > 0 && (
@@ -46,14 +46,14 @@ const Search = ({ onSearch }) => {
                 onSearch(result);
                 setResults([]);
               }}
-              className="p-4 hover:bg-blue-50 cursor-pointer flex items-start group"
+              className="p-4 hover:bg-blue-50 dark:hover:bg-blue-900/30 cursor-pointer flex items-start group"
             >
-              <MapPin className="text-blue-500 mr-3 mt-1 shrink-0" size={18} />
+              <MapPin className="text-blue-500 dark:text-blue-400 mr-3 mt-1 shrink-0" size={18} />
               <div className="flex-1">
-                <p className="text-sm font-medium text-gray-900 line-clamp-1 group-hover:text-blue-700">
+                <p className="text-sm font-medium text-gray-900 dark:text-gray-100 line-clamp-1 group-hover:text-blue-700 dark:group-hover:text-blue-400">
                   {result.display_name.split(',')[0]}
                 </p>
-                <p className="text-xs text-gray-400 line-clamp-2 mt-0.5">
+                <p className="text-xs text-gray-400 dark:text-gray-500 line-clamp-2 mt-0.5">
                   {result.display_name.substring(result.display_name.indexOf(',') + 1).trim()}
                 </p>
               </div>
