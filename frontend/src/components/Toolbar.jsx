@@ -24,19 +24,19 @@ const Toolbar = ({ onToolSelect }) => {
             tool.id === 'select' && !tool.danger ? 'mr-4' : ''
           } ${
             tool.danger
-              ? 'text-red-500 hover:bg-red-50 active:bg-red-100'
-              : 'text-gray-600 hover:bg-blue-50 hover:text-blue-600 active:bg-blue-100 font-medium'
+              ? 'text-red-500 hover:bg-red-50 dark:hover:bg-red-900/30'
+              : 'text-gray-600 dark:text-gray-400 hover:bg-blue-50 dark:hover:bg-blue-900/30 hover:text-blue-600 dark:hover:text-blue-400'
           }`}
           title={tool.label}
         >
           <tool.icon size={20} />
-          <span className="absolute top-full mt-3 left-1/2 -translate-x-1/2 px-2 py-1 bg-gray-800 text-[10px] text-white rounded opacity-0 group-hover:opacity-100 transition-opacity whitespace-nowrap pointer-events-none">
+          <span className="absolute top-full mt-3 left-1/2 -translate-x-1/2 px-2 py-1 bg-gray-800 dark:bg-gray-100 text-[10px] text-white dark:text-gray-900 rounded opacity-0 group-hover:opacity-100 transition-opacity whitespace-nowrap pointer-events-none">
             {tool.label}
           </span>
         </button>
       ))}
-      <div className="w-[1px] h-8 bg-gray-200 mx-2" />
-      <div className="px-4 text-xs font-semibold text-gray-400 uppercase tracking-widest hidden md:block">
+      <div className="w-[1px] h-8 bg-gray-200 dark:bg-gray-700 mx-2" />
+      <div className="px-4 text-xs font-semibold text-gray-400 dark:text-gray-500 uppercase tracking-widest hidden md:block">
         GIS Tools
       </div>
     </div>

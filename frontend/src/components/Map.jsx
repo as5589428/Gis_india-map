@@ -37,10 +37,38 @@ const GeomanControl = ({ drawTool }) => {
       hintlineStyle: { color: '#3b82f6', dashArray: [5, 5] },
     });
 
+    // Prevent duplicate event listeners when drawTool changes
+    map.off('pm:create');
     map.on('pm:create', (e) => {
-      console.log('Layer created:', e.layer.toGeoJSON());
-      // Re-enable same tool if you want continuous drawing, or disable
-      // map.pm.disableDraw();
+      const layer = e.layer;
+      
+      // If the drawn layer is a Line (Polyline)
+      if (layer instanceof L.Polyline && !(layer instanceof L.Polygon)) {
+        const latlngs = layer.getLatLngs();
+        let totalDistance = 0;
+        
+        // Support segments: calculate total distance between all vertices
+        for (let i = 0; i < latlngs.length - 1; i++) {
+          totalDistance += latlngs[i].distanceTo(latlngs[i + 1]);
+        }
+        
+        const distanceText = totalDistance > 1000 
+          ? (totalDistance / 1000).toFixed(2) + ' km' 
+          : Math.round(totalDistance) + ' m';
+          
+        // Bind persistent distance tooltip directly on the map line
+        layer.bindTooltip(
+          `<div class="flex items-center gap-1 font-semibold text-[11px] text-blue-700">
+             <span class="opacity-75">Distance:</span>
+             <span>${distanceText}</span>
+           </div>`,
+          {
+            permanent: true,
+            direction: 'center',
+            className: 'bg-white/95 backdrop-blur-sm border border-blue-200 px-2 py-1 rounded-md shadow-sm',
+          }
+        ).openTooltip();
+      }
     });
 
     // Handle tool changes from external Toolbar
@@ -254,16 +282,19 @@ const IndiaMap = ({ searchLocation, activeLayers, drawTool }) => {
                   layerId === 'india_boundary' ? '#3b82f6' : 
                   layerId === 'state_boundary' ? '#ef4444' : 
                   layerId === 'district_boundary' ? '#10b981' : 
-                  layerId === 'railway_network' ? '#000000' : // Black for railways
+                  layerId === 'railway_network' ? '#1e293b' : // Slate 800 for Railways
+                  layerId === 'metro_network' ? '#f59e0b' : // Amber 500 for Metro
                   '#3b82f6',
-                weight: layerId.includes('boundary') ? 3 : (layerId === 'railway_network' ? 2 : 2),
-                dashArray: layerId === 'district_boundary' ? '5, 5' : layerId === 'railway_network' ? '4, 4' : '0',
+                weight: layerId.includes('boundary') ? 3 : (layerId === 'railway_network' ? 3 : layerId === 'metro_network' ? 5 : 2),
+                dashArray: layerId === 'district_boundary' ? '5, 5' : layerId === 'railway_network' ? '4, 6' : '0',
                 fillOpacity: layerId.includes('boundary') ? 0.05 : 0.8
               }} 
             />
           );
 
-          if (layerId === 'hospitals' || layerId === 'schools') {
+          const isPointLayer = layerId === 'hospitals' || layerId === 'schools' || layerId === 'airports' || layerId === 'railway_stations' || layerId === 'metro_stations';
+
+          if (isPointLayer) {
             return (
               <MarkerClusterGroup 
                 key={layerId}
