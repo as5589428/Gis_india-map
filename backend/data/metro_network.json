@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Delhi Metro Yellow Line", "city": "Delhi", "color": "#FFD700" },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[77.1, 28.5], [77.1, 28.6], [77.2, 28.7], [77.2, 28.8]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Mumbai Metro Line 1", "city": "Mumbai", "color": "#0000FF" },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[72.8, 19.1], [72.8, 19.2], [72.9, 19.3]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Nagpur Metro Orange Line", "city": "Nagpur", "color": "#FFA500" },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[79.0, 21.1], [79.1, 21.1], [79.1, 21.2]]
+      }
+    }
+  ]
+}

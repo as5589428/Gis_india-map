@@ -1,0 +1,9 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature", "properties": { "name": "Rajiv Chowk Metro Station" }, "geometry": { "type": "Point", "coordinates": [77.2195, 28.6328] } },
+    { "type": "Feature", "properties": { "name": "Andheri Metro Station" }, "geometry": { "type": "Point", "coordinates": [72.8550, 19.1200] } },
+    { "type": "Feature", "properties": { "name": "Sitabuldi Interchange Nagpur" }, "geometry": { "type": "Point", "coordinates": [79.0820, 21.1440] } },
+    { "type": "Feature", "properties": { "name": "Majestic Metro Bangalore" }, "geometry": { "type": "Point", "coordinates": [77.5740, 12.9760] } }
+  ]
+}
