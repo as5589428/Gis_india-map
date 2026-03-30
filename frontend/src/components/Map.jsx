@@ -144,7 +144,7 @@ const IndiaMap = ({ searchLocation, activeLayers, drawTool }) => {
     activeLayers.forEach(layerId => {
       if (!loadedLayersRef.current.has(layerId)) {
         setIsLoading(true);
-        axios.get(`http://localhost:5000/api/layers/${layerId}`)
+        axios.get(`https://gis-india-map.onrender.com/api/layers/${layerId}`)
           .then(res => {
             loadedLayersRef.current.add(layerId);
             setLayersData(prev => ({ ...prev, [layerId]: res.data }));
