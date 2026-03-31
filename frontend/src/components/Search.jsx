@@ -14,7 +14,7 @@ const Search = ({ onSearch }) => {
     setLoading(true);
     try {
       // Call backend search API (proxied to Nominatim)
-      const response = await axios.get(`https://gis-india-map.onrender.com/api/search?query=${query}`);
+      const response = await axios.get(`http://localhost:5000/api/search?query=${query}`);
       setResults(response.data);
     } catch (error) {
       console.error('Search error:', error);
