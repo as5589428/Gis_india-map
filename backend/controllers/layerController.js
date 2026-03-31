@@ -6,6 +6,13 @@ const layersList = [
   { id: 'india_boundary', name: 'India Boundary', type: 'GeoJSON' },
   { id: 'state_boundary', name: 'State Boundaries', type: 'GeoJSON' },
   { id: 'district_boundary', name: 'District Boundaries', type: 'GeoJSON' },
+  { id: 'metro_network', name: 'Metro Rail Lines', type: 'GeoJSON' },
+  { id: 'railway_network', name: 'Railway Network', type: 'GeoJSON' },
+  { id: 'railway_stations', name: 'Railway Stations', type: 'GeoJSON' },
+  { id: 'metro_stations', name: 'Metro Stations', type: 'GeoJSON' },
+  { id: 'airports', name: 'Major Airports', type: 'GeoJSON' },
+  { id: 'hospitals', name: 'Hospitals Registry', type: 'GeoJSON' },
+  { id: 'schools', name: 'Schools Registry', type: 'GeoJSON' },
 ];
 
 exports.getLayers = (req, res) => {

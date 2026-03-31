@@ -1,9 +1,1333 @@
 {
   "type": "FeatureCollection",
   "features": [
-    { "type": "Feature", "properties": { "name": "Rajiv Chowk Metro Station" }, "geometry": { "type": "Point", "coordinates": [77.2195, 28.6328] } },
-    { "type": "Feature", "properties": { "name": "Andheri Metro Station" }, "geometry": { "type": "Point", "coordinates": [72.8550, 19.1200] } },
-    { "type": "Feature", "properties": { "name": "Sitabuldi Interchange Nagpur" }, "geometry": { "type": "Point", "coordinates": [79.0820, 21.1440] } },
-    { "type": "Feature", "properties": { "name": "Majestic Metro Bangalore" }, "geometry": { "type": "Point", "coordinates": [77.5740, 12.9760] } }
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samaypur Badli",
+        "city": "Delhi",
+        "line": "Yellow",
+        "network": "Delhi Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1472,
+          28.7453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delhi Yellow Station 2",
+        "city": "Delhi",
+        "line": "Yellow",
+        "network": "Delhi Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1611,
+          28.7297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delhi Yellow Station 3",
+        "city": "Delhi",
+        "line": "Yellow",
+        "network": "Delhi Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.177,
+          28.7067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delhi Yellow Station 4",
+        "city": "Delhi",
+        "line": "Yellow",
+        "network": "Delhi Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2144,
+          28.6946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delhi Yellow Station 5",
+        "city": "Delhi",
+        "line": "Yellow",
+        "network": "Delhi Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2285,
+          28.667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delhi Yellow Station 6",
+        "city": "Delhi",
+        "line": "Yellow",
+        "network": "Delhi Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2217,
+          28.6434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rajiv Chowk",
+        "city": "Delhi",
+        "line": "Yellow",
+        "network": "Delhi Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2195,
+          28.6328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delhi Yellow Station 8",
+        "city": "Delhi",
+        "line": "Yellow",
+        "network": "Delhi Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2114,
+          28.6149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delhi Yellow Station 9",
+        "city": "Delhi",
+        "line": "Yellow",
+        "network": "Delhi Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2104,
+          28.575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delhi Yellow Station 10",
+        "city": "Delhi",
+        "line": "Yellow",
+        "network": "Delhi Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.21,
+          28.5686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delhi Yellow Station 11",
+        "city": "Delhi",
+        "line": "Yellow",
+        "network": "Delhi Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2072,
+          28.5434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delhi Yellow Station 12",
+        "city": "Delhi",
+        "line": "Yellow",
+        "network": "Delhi Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2004,
+          28.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Huda City Centre",
+        "city": "Delhi",
+        "line": "Yellow",
+        "network": "Delhi Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0722,
+          28.4594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dwarka Sector 21",
+        "city": "Delhi",
+        "line": "Blue",
+        "network": "Delhi Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0587,
+          28.5519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delhi Blue Station 2",
+        "city": "Delhi",
+        "line": "Blue",
+        "network": "Delhi Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0767,
+          28.6294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delhi Blue Station 3",
+        "city": "Delhi",
+        "line": "Blue",
+        "network": "Delhi Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1233,
+          28.6483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delhi Blue Station 4",
+        "city": "Delhi",
+        "line": "Blue",
+        "network": "Delhi Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1511,
+          28.6558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rajiv Chowk",
+        "city": "Delhi",
+        "line": "Blue",
+        "network": "Delhi Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2195,
+          28.6328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delhi Blue Station 6",
+        "city": "Delhi",
+        "line": "Blue",
+        "network": "Delhi Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2667,
+          28.6214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delhi Blue Station 7",
+        "city": "Delhi",
+        "line": "Blue",
+        "network": "Delhi Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3163,
+          28.6469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delhi Blue Station 8",
+        "city": "Delhi",
+        "line": "Blue",
+        "network": "Delhi Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.329,
+          28.567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Noida Electronic City",
+        "city": "Delhi",
+        "line": "Blue",
+        "network": "Delhi Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.356,
+          28.5744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Automotive Square",
+        "city": "Nagpur",
+        "line": "Orange",
+        "network": "Nagpur Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0886,
+          21.1965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nagpur Orange Station 2",
+        "city": "Nagpur",
+        "line": "Orange",
+        "network": "Nagpur Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0877,
+          21.1878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nagpur Orange Station 3",
+        "city": "Nagpur",
+        "line": "Orange",
+        "network": "Nagpur Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0864,
+          21.1786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nagpur Orange Station 4",
+        "city": "Nagpur",
+        "line": "Orange",
+        "network": "Nagpur Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0853,
+          21.1683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nagpur Orange Station 5",
+        "city": "Nagpur",
+        "line": "Orange",
+        "network": "Nagpur Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0844,
+          21.1578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nagpur Orange Station 6",
+        "city": "Nagpur",
+        "line": "Orange",
+        "network": "Nagpur Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0836,
+          21.1514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nagpur Orange Station 7",
+        "city": "Nagpur",
+        "line": "Orange",
+        "network": "Nagpur Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0831,
+          21.1472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sitabuldi Interchange",
+        "city": "Nagpur",
+        "line": "Orange",
+        "network": "Nagpur Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0831,
+          21.1444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nagpur Orange Station 9",
+        "city": "Nagpur",
+        "line": "Orange",
+        "network": "Nagpur Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0811,
+          21.1353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nagpur Orange Station 10",
+        "city": "Nagpur",
+        "line": "Orange",
+        "network": "Nagpur Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0786,
+          21.1264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nagpur Orange Station 11",
+        "city": "Nagpur",
+        "line": "Orange",
+        "network": "Nagpur Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0767,
+          21.1186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nagpur Orange Station 12",
+        "city": "Nagpur",
+        "line": "Orange",
+        "network": "Nagpur Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0736,
+          21.1078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nagpur Orange Station 13",
+        "city": "Nagpur",
+        "line": "Orange",
+        "network": "Nagpur Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0711,
+          21.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nagpur Orange Station 14",
+        "city": "Nagpur",
+        "line": "Orange",
+        "network": "Nagpur Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0683,
+          21.0911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nagpur Orange Station 15",
+        "city": "Nagpur",
+        "line": "Orange",
+        "network": "Nagpur Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0656,
+          21.0825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nagpur Orange Station 16",
+        "city": "Nagpur",
+        "line": "Orange",
+        "network": "Nagpur Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0628,
+          21.0744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khapri",
+        "city": "Nagpur",
+        "line": "Orange",
+        "network": "Nagpur Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0631,
+          21.0644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lokmanya Nagar",
+        "city": "Nagpur",
+        "line": "Aqua",
+        "network": "Nagpur Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.9883,
+          21.135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nagpur Aqua Station 2",
+        "city": "Nagpur",
+        "line": "Aqua",
+        "network": "Nagpur Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0083,
+          21.1367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nagpur Aqua Station 3",
+        "city": "Nagpur",
+        "line": "Aqua",
+        "network": "Nagpur Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0283,
+          21.1383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nagpur Aqua Station 4",
+        "city": "Nagpur",
+        "line": "Aqua",
+        "network": "Nagpur Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0483,
+          21.14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nagpur Aqua Station 5",
+        "city": "Nagpur",
+        "line": "Aqua",
+        "network": "Nagpur Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0583,
+          21.1408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nagpur Aqua Station 6",
+        "city": "Nagpur",
+        "line": "Aqua",
+        "network": "Nagpur Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0683,
+          21.1417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nagpur Aqua Station 7",
+        "city": "Nagpur",
+        "line": "Aqua",
+        "network": "Nagpur Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0767,
+          21.1425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sitabuldi Interchange",
+        "city": "Nagpur",
+        "line": "Aqua",
+        "network": "Nagpur Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0831,
+          21.1444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nagpur Aqua Station 9",
+        "city": "Nagpur",
+        "line": "Aqua",
+        "network": "Nagpur Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1,
+          21.1453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nagpur Aqua Station 10",
+        "city": "Nagpur",
+        "line": "Aqua",
+        "network": "Nagpur Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1086,
+          21.1456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nagpur Aqua Station 11",
+        "city": "Nagpur",
+        "line": "Aqua",
+        "network": "Nagpur Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1172,
+          21.1458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nagpur Aqua Station 12",
+        "city": "Nagpur",
+        "line": "Aqua",
+        "network": "Nagpur Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1256,
+          21.1461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nagpur Aqua Station 13",
+        "city": "Nagpur",
+        "line": "Aqua",
+        "network": "Nagpur Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1336,
+          21.1464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prajapati Nagar",
+        "city": "Nagpur",
+        "line": "Aqua",
+        "network": "Nagpur Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1414,
+          21.1467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Challaghatta",
+        "city": "Bengaluru",
+        "line": "Purple",
+        "network": "Bengaluru Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4683,
+          12.9186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nadaprabhu Majestic",
+        "city": "Bengaluru",
+        "line": "Purple",
+        "network": "Bengaluru Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5739,
+          12.9772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bengaluru Purple Station 3",
+        "city": "Bengaluru",
+        "line": "Purple",
+        "network": "Bengaluru Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6067,
+          12.9753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bengaluru Purple Station 4",
+        "city": "Bengaluru",
+        "line": "Purple",
+        "network": "Bengaluru Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6521,
+          12.9867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Whitefield",
+        "city": "Bengaluru",
+        "line": "Purple",
+        "network": "Bengaluru Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7514,
+          12.9697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nagasandra",
+        "city": "Bengaluru",
+        "line": "Green",
+        "network": "Bengaluru Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5122,
+          13.0503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bengaluru Green Station 2",
+        "city": "Bengaluru",
+        "line": "Green",
+        "network": "Bengaluru Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5519,
+          13.0131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nadaprabhu Majestic",
+        "city": "Bengaluru",
+        "line": "Green",
+        "network": "Bengaluru Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5739,
+          12.9772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bengaluru Green Station 4",
+        "city": "Bengaluru",
+        "line": "Green",
+        "network": "Bengaluru Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5819,
+          12.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Silk Institute",
+        "city": "Bengaluru",
+        "line": "Green",
+        "network": "Bengaluru Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5303,
+          12.8461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Versova",
+        "city": "Mumbai",
+        "line": "Blue",
+        "network": "Mumbai Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8153,
+          19.1311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Andheri",
+        "city": "Mumbai",
+        "line": "Blue",
+        "network": "Mumbai Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8513,
+          19.1197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ghatkopar",
+        "city": "Mumbai",
+        "line": "Blue",
+        "network": "Mumbai Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9086,
+          19.0858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dahisar East",
+        "city": "Mumbai",
+        "line": "Yellow/Red",
+        "network": "Mumbai Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8631,
+          19.2558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gundavali",
+        "city": "Mumbai",
+        "line": "Red",
+        "network": "Mumbai Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.855,
+          19.1156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CSMT",
+        "city": "Mumbai",
+        "line": "Aqua",
+        "network": "Mumbai Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8353,
+          18.9402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BKC",
+        "city": "Mumbai",
+        "line": "Aqua",
+        "network": "Mumbai Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8656,
+          19.0667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Esplanade",
+        "city": "Kolkata",
+        "line": "North-South/East-West",
+        "network": "Kolkata Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3511,
+          22.5636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Howrah Maidan",
+        "city": "Kolkata",
+        "line": "East-West",
+        "network": "Kolkata Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3286,
+          22.5714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salt Lake Sector V",
+        "city": "Kolkata",
+        "line": "East-West",
+        "network": "Kolkata Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4286,
+          22.5714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dakshineswar",
+        "city": "Kolkata",
+        "line": "North-South",
+        "network": "Kolkata Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3514,
+          22.6514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kavi Subhash",
+        "city": "Kolkata",
+        "line": "North-South",
+        "network": "Kolkata Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3914,
+          22.4614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ameerpet",
+        "city": "Hyderabad",
+        "line": "Red/Blue",
+        "network": "Hyderabad Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4483,
+          17.4375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miyapur",
+        "city": "Hyderabad",
+        "line": "Red",
+        "network": "Hyderabad Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3514,
+          17.4936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Raidurg",
+        "city": "Hyderabad",
+        "line": "Blue",
+        "network": "Hyderabad Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3714,
+          17.4436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MGBS",
+        "city": "Hyderabad",
+        "line": "Red/Green",
+        "network": "Hyderabad Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4814,
+          17.3736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chennai Central",
+        "city": "Chennai",
+        "line": "Blue/Green",
+        "network": "Chennai Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2742,
+          13.0822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Airport",
+        "city": "Chennai",
+        "line": "Blue",
+        "network": "Chennai Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1742,
+          12.9936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alandur",
+        "city": "Chennai",
+        "line": "Blue/Green",
+        "network": "Chennai Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2014,
+          13.0036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wimco Nagar",
+        "city": "Chennai",
+        "line": "Blue",
+        "network": "Chennai Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3014,
+          13.1611
+        ]
+      }
+    }
   ]
 }

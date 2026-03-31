@@ -142,16 +142,13 @@ const IndiaMap = ({ searchLocation, activeLayers, drawTool }) => {
   // Fetch layer data when toggled
   useEffect(() => {
     activeLayers.forEach(layerId => {
-      if (!loadedLayersRef.current.has(layerId)) {
-        setIsLoading(true);
-        axios.get(`https://gis-india-map.onrender.com/api/layers/${layerId}`)
-          .then(res => {
-            loadedLayersRef.current.add(layerId);
-            setLayersData(prev => ({ ...prev, [layerId]: res.data }));
-          })
-          .catch(err => console.error(`Error loading layer ${layerId}:`, err))
-          .finally(() => setIsLoading(false));
-      }
+      setIsLoading(true);
+      axios.get(`http://localhost:5000/api/layers/${layerId}`)
+        .then(res => {
+          setLayersData(prev => ({ ...prev, [layerId]: res.data }));
+        })
+        .catch(err => console.error('Error fetching layer:', err))
+        .finally(() => setIsLoading(false));
     });
   }, [activeLayers]);
 
@@ -222,11 +219,13 @@ const IndiaMap = ({ searchLocation, activeLayers, drawTool }) => {
                 const isHealth = layerId === 'hospitals';
                 const isEducation = layerId === 'schools';
                 const isAirport = layerId === 'airports';
+                const isMetro = layerId === 'metro_stations';
+                const isRailway = layerId === 'railway_stations';
 
-                if (isHealth || isEducation || isAirport || layerId === 'railway_stations' || layerId === 'metro_stations') {
-                  const bgPulse = isHealth ? 'bg-red-500/20' : isEducation ? 'bg-green-500/20' : 'bg-blue-500/20';
-                  const bgCore = isHealth ? 'bg-red-600' : isEducation ? 'bg-green-600' : 'bg-blue-600';
-                  const label = isHealth ? 'H' : isEducation ? 'S' : isAirport ? '✈' : 'T';
+                if (isHealth || isEducation || isAirport || isRailway || isMetro) {
+                  const bgPulse = isHealth ? 'bg-red-500/10' : isEducation ? 'bg-green-500/10' : isMetro ? 'bg-indigo-500/10' : 'bg-blue-500/10';
+                  const bgCore = isHealth ? 'bg-red-600' : isEducation ? 'bg-green-600' : isMetro ? 'bg-indigo-600' : 'bg-blue-600';
+                  const label = isHealth ? 'H' : isEducation ? 'S' : isAirport ? '✈' : isMetro ? 'M' : 'T';
                   
                   const iconHtml = `
                     <div class="relative flex items-center justify-center">
@@ -243,7 +242,15 @@ const IndiaMap = ({ searchLocation, activeLayers, drawTool }) => {
                       iconSize: [32, 32],
                       iconAnchor: [16, 16]
                     })
-                  });
+                  }).bindTooltip(
+                    `<div class="font-bold text-[11px] px-2 py-0.5">${feature.properties.name || 'Station'}</div>`,
+                    {
+                      permanent: false, // DO NOT use permanent labels for 100+ points; it's messy.
+                      direction: 'top',
+                      offset: [0, -12],
+                      className: 'bg-indigo-600 text-white border-none shadow-xl rounded-full px-2 py-1 transform -translate-y-1 transition-all'
+                    }
+                  );
                 }
                 return L.marker(latlng);
               }}
@@ -263,6 +270,18 @@ const IndiaMap = ({ searchLocation, activeLayers, drawTool }) => {
                   } else if (layerId === 'airports') {
                     type = feature.properties.type || 'Airport';
                     details = feature.properties.iata ? `<br/>IATA: ${feature.properties.iata}` : '';
+                  } else if (layerId === 'metro_stations') {
+                    type = 'Metro Station';
+                    const city = feature.properties.city || '';
+                    const network = feature.properties.network || '';
+                    const line = feature.properties.line || '';
+                    details = [
+                      city ? `City: ${city}` : '',
+                      network ? `Network: ${network}` : '',
+                      line ? `Line: ${line}` : '',
+                    ].filter(Boolean).map(d => `<br/>${d}`).join('');
+                  } else if (layerId === 'railway_stations') {
+                    type = feature.properties.railway || 'Railway Station';
                   } else {
                     type = feature.properties.type || layerId.replace('_', ' ').toUpperCase();
                   }
@@ -277,30 +296,33 @@ const IndiaMap = ({ searchLocation, activeLayers, drawTool }) => {
                 `);
 
               }}
-              style={{ 
+              style={(feature) => ({ 
                 color: 
                   layerId === 'india_boundary' ? '#3b82f6' : 
                   layerId === 'state_boundary' ? '#ef4444' : 
                   layerId === 'district_boundary' ? '#10b981' : 
-                  layerId === 'railway_network' ? '#1e293b' : // Slate 800 for Railways
-                  layerId === 'metro_network' ? '#f59e0b' : // Amber 500 for Metro
+                  layerId === 'railway_network' ? '#334155' : // Slate 700 
+                  layerId === 'metro_network' ? (feature.properties.color || '#8b5cf6') : // Purple/Violet as default
                   '#3b82f6',
                 weight: layerId.includes('boundary') ? 3 : (layerId === 'railway_network' ? 3 : layerId === 'metro_network' ? 5 : 2),
-                dashArray: layerId === 'district_boundary' ? '5, 5' : layerId === 'railway_network' ? '4, 6' : '0',
+                dashArray: layerId === 'district_boundary' ? '5, 5' : layerId === 'railway_network' ? '8, 4' : '0',
                 fillOpacity: layerId.includes('boundary') ? 0.05 : 0.8
-              }} 
+              })} 
             />
           );
 
           const isPointLayer = layerId === 'hospitals' || layerId === 'schools' || layerId === 'airports' || layerId === 'railway_stations' || layerId === 'metro_stations';
 
           if (isPointLayer) {
+            const isMetroLayer = layerId === 'metro_stations';
+            
             return (
               <MarkerClusterGroup 
                 key={layerId}
                 chunkedLoading={true}
-                maxClusterRadius={50}
+                maxClusterRadius={isMetroLayer ? 0 : 50} // No clustering for metro to keep it clear
                 spiderfyOnMaxZoom={true}
+                disableClusteringAtZoom={isMetroLayer ? 1 : 18}
               >
                 {geoJsonLayer}
               </MarkerClusterGroup>
