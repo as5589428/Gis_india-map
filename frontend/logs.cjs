@@ -12,7 +12,7 @@ const puppeteer = require('puppeteer');
   page.on('pageerror', err => console.log('PAGE_ERROR:', err.message));
   
   try {
-    await page.goto('http://localhost:5173', { waitUntil: 'networkidle2', timeout: 30000 });
+    await page.goto('https://gis-india-map.onrender.com', { waitUntil: 'networkidle2', timeout: 30000 });
     // Wait a bit to ensure map loads 
     await new Promise(r => setTimeout(r, 2000));
     

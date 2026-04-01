@@ -1,5 +1,5 @@
 import React from 'react';
-import { Layers as LayersIcon, MapPin, Train, Plane, Hospital, School, Globe, Map as GlobeIcon, Building2 } from 'lucide-react';
+import { Layers as LayersIcon, MapPin, Train, Plane, Hospital, School, Globe, Map as GlobeIcon, Building2, Droplet } from 'lucide-react';
 
 const Layers = ({ activeLayers, toggleLayer }) => {
   const layerGroups = [
@@ -32,6 +32,7 @@ const Layers = ({ activeLayers, toggleLayer }) => {
       layers: [
         { id: 'hospitals', label: 'Hospitals Registry', icon: Hospital },
         { id: 'schools', label: 'Schools Registry', icon: School },
+        { id: 'water_tanks_nagpur', label: 'Nagpur Water Tanks', icon: Droplet },
       ],
     },
   ];

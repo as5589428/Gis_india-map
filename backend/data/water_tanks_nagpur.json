@@ -1,0 +1,305 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Water Storage",
+        "type": "water_tower",
+        "capacity": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0919684,
+          21.1236818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Water Storage",
+        "type": "water_tower",
+        "capacity": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0923362,
+          21.1236974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Laxmi Nagar Water Tank",
+        "type": "water_tower",
+        "capacity": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0605025,
+          21.1241553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lakshmi Nagar Water Tank",
+        "type": "water_tower",
+        "capacity": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0608069,
+          21.1239242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Water Storage",
+        "type": "drinking_water",
+        "capacity": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0678462,
+          21.1287543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Water Storage",
+        "type": "drinking_water",
+        "capacity": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0765803,
+          21.1427704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Water Storage",
+        "type": "water_tower",
+        "capacity": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.089525,
+          21.1256379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Water Storage",
+        "type": "drinking_water",
+        "capacity": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1073533,
+          21.0886133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Water Storage",
+        "type": "drinking_water",
+        "capacity": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0883602,
+          21.1497622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Water Storage",
+        "type": "drinking_water",
+        "capacity": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0882779,
+          21.1520243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Water Storage",
+        "type": "storage_tank",
+        "capacity": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1269125,
+          21.1178493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Water Storage",
+        "type": "water_tower",
+        "capacity": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1210015,
+          21.1067265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Water Storage",
+        "type": "water_tower",
+        "capacity": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.080353,
+          21.1298421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Water Storage",
+        "type": "water_tower",
+        "capacity": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0811648,
+          21.1088097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Water Storage",
+        "type": "water_tower",
+        "capacity": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1982767,
+          21.2122886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Water Storage",
+        "type": "water_tower",
+        "capacity": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0997411,
+          21.1530053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Water Storage",
+        "type": "storage_tank",
+        "capacity": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.107489,
+          21.1283122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Water Storage",
+        "type": "storage_tank",
+        "capacity": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0953462,
+          21.1255981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Water Storage",
+        "type": "water_tower",
+        "capacity": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.954396,
+          21.2082313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Water Storage",
+        "type": "water_tower",
+        "capacity": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.9518429,
+          21.2096789
+        ]
+      }
+    }
+  ]
+}
