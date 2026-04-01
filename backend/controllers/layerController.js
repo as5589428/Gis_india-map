@@ -13,6 +13,7 @@ const layersList = [
   { id: 'airports', name: 'Major Airports', type: 'GeoJSON' },
   { id: 'hospitals', name: 'Hospitals Registry', type: 'GeoJSON' },
   { id: 'schools', name: 'Schools Registry', type: 'GeoJSON' },
+  { id: 'water_tanks_nagpur', name: 'Nagpur Water Tanks', type: 'GeoJSON' },
 ];
 
 exports.getLayers = (req, res) => {

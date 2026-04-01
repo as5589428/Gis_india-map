@@ -143,7 +143,7 @@ const IndiaMap = ({ searchLocation, activeLayers, drawTool }) => {
   useEffect(() => {
     activeLayers.forEach(layerId => {
       setIsLoading(true);
-      axios.get(`http://localhost:5000/api/layers/${layerId}`)
+      axios.get(`https://gis-india-map.onrender.com/api/layers/${layerId}`)
         .then(res => {
           setLayersData(prev => ({ ...prev, [layerId]: res.data }));
         })
@@ -221,11 +221,12 @@ const IndiaMap = ({ searchLocation, activeLayers, drawTool }) => {
                 const isAirport = layerId === 'airports';
                 const isMetro = layerId === 'metro_stations';
                 const isRailway = layerId === 'railway_stations';
+                const isWaterTank = layerId === 'water_tanks_nagpur';
 
-                if (isHealth || isEducation || isAirport || isRailway || isMetro) {
-                  const bgPulse = isHealth ? 'bg-red-500/10' : isEducation ? 'bg-green-500/10' : isMetro ? 'bg-indigo-500/10' : 'bg-blue-500/10';
-                  const bgCore = isHealth ? 'bg-red-600' : isEducation ? 'bg-green-600' : isMetro ? 'bg-indigo-600' : 'bg-blue-600';
-                  const label = isHealth ? 'H' : isEducation ? 'S' : isAirport ? '✈' : isMetro ? 'M' : 'T';
+                if (isHealth || isEducation || isAirport || isRailway || isMetro || isWaterTank) {
+                  const bgPulse = isHealth ? 'bg-red-500/10' : isEducation ? 'bg-green-500/10' : isMetro ? 'bg-indigo-500/10' : isWaterTank ? 'bg-cyan-500/10' : 'bg-blue-500/10';
+                  const bgCore = isHealth ? 'bg-red-600' : isEducation ? 'bg-green-600' : isMetro ? 'bg-indigo-600' : isWaterTank ? 'bg-cyan-600' : 'bg-blue-600';
+                  const label = isHealth ? 'H' : isEducation ? 'S' : isAirport ? '✈' : isMetro ? 'M' : isWaterTank ? 'W' : 'T';
                   
                   const iconHtml = `
                     <div class="relative flex items-center justify-center">
@@ -311,7 +312,7 @@ const IndiaMap = ({ searchLocation, activeLayers, drawTool }) => {
             />
           );
 
-          const isPointLayer = layerId === 'hospitals' || layerId === 'schools' || layerId === 'airports' || layerId === 'railway_stations' || layerId === 'metro_stations';
+          const isPointLayer = layerId === 'hospitals' || layerId === 'schools' || layerId === 'airports' || layerId === 'railway_stations' || layerId === 'metro_stations' || layerId === 'water_tanks_nagpur';
 
           if (isPointLayer) {
             const isMetroLayer = layerId === 'metro_stations';

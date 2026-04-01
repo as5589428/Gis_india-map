@@ -4,352 +4,96 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Samaypur Badli",
-        "city": "Delhi",
-        "line": "Yellow",
-        "network": "Delhi Metro"
+        "name": "Rahate Colony",
+        "city": "Nagpur",
+        "network": "MahaMetro",
+        "line": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.1472,
-          28.7453
+          79.0756888,
+          21.1276692
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Delhi Yellow Station 2",
-        "city": "Delhi",
-        "line": "Yellow",
-        "network": "Delhi Metro"
+        "name": "Congress Nagar",
+        "city": "Nagpur",
+        "network": "Nagpur Metro",
+        "line": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.1611,
-          28.7297
+          79.0825531,
+          21.1281984
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Delhi Yellow Station 3",
-        "city": "Delhi",
-        "line": "Yellow",
-        "network": "Delhi Metro"
+        "name": "Zaveri Nursing Home, Nagpur",
+        "city": "Nagpur",
+        "network": "Nagpur Metro",
+        "line": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.177,
-          28.7067
+          79.1101322,
+          21.1699068
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Delhi Yellow Station 4",
-        "city": "Delhi",
-        "line": "Yellow",
-        "network": "Delhi Metro"
+        "name": "Station",
+        "city": "Nagpur",
+        "network": "Nagpur Metro",
+        "line": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.2144,
-          28.6946
+          79.0904608,
+          21.1513518
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Delhi Yellow Station 5",
-        "city": "Delhi",
-        "line": "Yellow",
-        "network": "Delhi Metro"
+        "name": "Nari Road",
+        "city": "Nagpur",
+        "network": "Nagpur Metro",
+        "line": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.2285,
-          28.667
+          79.1097781,
+          21.1795001
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Delhi Yellow Station 6",
-        "city": "Delhi",
-        "line": "Yellow",
-        "network": "Delhi Metro"
+        "name": "Chitaroli Square",
+        "city": "Nagpur",
+        "network": "Nagpur Metro",
+        "line": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.2217,
-          28.6434
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Rajiv Chowk",
-        "city": "Delhi",
-        "line": "Yellow",
-        "network": "Delhi Metro"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.2195,
-          28.6328
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Delhi Yellow Station 8",
-        "city": "Delhi",
-        "line": "Yellow",
-        "network": "Delhi Metro"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.2114,
-          28.6149
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Delhi Yellow Station 9",
-        "city": "Delhi",
-        "line": "Yellow",
-        "network": "Delhi Metro"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.2104,
-          28.575
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Delhi Yellow Station 10",
-        "city": "Delhi",
-        "line": "Yellow",
-        "network": "Delhi Metro"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.21,
-          28.5686
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Delhi Yellow Station 11",
-        "city": "Delhi",
-        "line": "Yellow",
-        "network": "Delhi Metro"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.2072,
-          28.5434
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Delhi Yellow Station 12",
-        "city": "Delhi",
-        "line": "Yellow",
-        "network": "Delhi Metro"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.2004,
-          28.5204
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Huda City Centre",
-        "city": "Delhi",
-        "line": "Yellow",
-        "network": "Delhi Metro"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.0722,
-          28.4594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Dwarka Sector 21",
-        "city": "Delhi",
-        "line": "Blue",
-        "network": "Delhi Metro"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.0587,
-          28.5519
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Delhi Blue Station 2",
-        "city": "Delhi",
-        "line": "Blue",
-        "network": "Delhi Metro"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.0767,
-          28.6294
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Delhi Blue Station 3",
-        "city": "Delhi",
-        "line": "Blue",
-        "network": "Delhi Metro"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.1233,
-          28.6483
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Delhi Blue Station 4",
-        "city": "Delhi",
-        "line": "Blue",
-        "network": "Delhi Metro"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.1511,
-          28.6558
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Rajiv Chowk",
-        "city": "Delhi",
-        "line": "Blue",
-        "network": "Delhi Metro"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.2195,
-          28.6328
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Delhi Blue Station 6",
-        "city": "Delhi",
-        "line": "Blue",
-        "network": "Delhi Metro"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.2667,
-          28.6214
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Delhi Blue Station 7",
-        "city": "Delhi",
-        "line": "Blue",
-        "network": "Delhi Metro"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.3163,
-          28.6469
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Delhi Blue Station 8",
-        "city": "Delhi",
-        "line": "Blue",
-        "network": "Delhi Metro"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.329,
-          28.567
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Noida Electronic City",
-        "city": "Delhi",
-        "line": "Blue",
-        "network": "Delhi Metro"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.356,
-          28.5744
+          79.110395,
+          21.1496469
         ]
       }
     },
@@ -358,478 +102,142 @@
       "properties": {
         "name": "Automotive Square",
         "city": "Nagpur",
-        "line": "Orange",
-        "network": "Nagpur Metro"
+        "network": "Nagpur Metro",
+        "line": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          79.0886,
-          21.1965
+          79.1195065,
+          21.1857923
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Nagpur Orange Station 2",
+        "name": "Agrasen Square",
         "city": "Nagpur",
-        "line": "Orange",
-        "network": "Nagpur Metro"
+        "network": "Nagpur Metro",
+        "line": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          79.0877,
-          21.1878
+          79.1029132,
+          21.1510532
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Nagpur Orange Station 3",
+        "name": "Ambedkar Square",
         "city": "Nagpur",
-        "line": "Orange",
-        "network": "Nagpur Metro"
+        "network": "Nagpur Metro",
+        "line": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          79.0864,
-          21.1786
+          79.1294936,
+          21.148325
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Nagpur Orange Station 4",
+        "name": "Kadvi Square",
         "city": "Nagpur",
-        "line": "Orange",
-        "network": "Nagpur Metro"
+        "network": "Nagpur Metro",
+        "line": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          79.0853,
-          21.1683
+          79.0924243,
+          21.1686674
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Nagpur Orange Station 5",
+        "name": "Dosar Vaisya Square",
         "city": "Nagpur",
-        "line": "Orange",
-        "network": "Nagpur Metro"
+        "network": "Nagpur Metro",
+        "line": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          79.0844,
-          21.1578
+          79.094916,
+          21.1529727
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Nagpur Orange Station 6",
+        "name": "Vaishnodevi Square",
         "city": "Nagpur",
-        "line": "Orange",
-        "network": "Nagpur Metro"
+        "network": "Nagpur Metro",
+        "line": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          79.0836,
-          21.1514
+          79.1364057,
+          21.1480272
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Nagpur Orange Station 7",
+        "name": "Telephone Exchange",
         "city": "Nagpur",
-        "line": "Orange",
-        "network": "Nagpur Metro"
+        "network": "Nagpur Metro",
+        "line": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          79.0831,
-          21.1472
+          79.1182431,
+          21.148814
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Sitabuldi Interchange",
+        "name": "Indora Square",
         "city": "Nagpur",
-        "line": "Orange",
-        "network": "Nagpur Metro"
+        "network": "Nagpur Metro",
+        "line": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          79.0831,
-          21.1444
+          79.1007283,
+          21.1736873
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Nagpur Orange Station 9",
+        "name": "Gaddi Godam Square",
         "city": "Nagpur",
-        "line": "Orange",
-        "network": "Nagpur Metro"
+        "network": "Nagpur Metro",
+        "line": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          79.0811,
-          21.1353
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Nagpur Orange Station 10",
-        "city": "Nagpur",
-        "line": "Orange",
-        "network": "Nagpur Metro"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          79.0786,
-          21.1264
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Nagpur Orange Station 11",
-        "city": "Nagpur",
-        "line": "Orange",
-        "network": "Nagpur Metro"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          79.0767,
-          21.1186
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Nagpur Orange Station 12",
-        "city": "Nagpur",
-        "line": "Orange",
-        "network": "Nagpur Metro"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          79.0736,
-          21.1078
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Nagpur Orange Station 13",
-        "city": "Nagpur",
-        "line": "Orange",
-        "network": "Nagpur Metro"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          79.0711,
-          21.1
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Nagpur Orange Station 14",
-        "city": "Nagpur",
-        "line": "Orange",
-        "network": "Nagpur Metro"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          79.0683,
-          21.0911
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Nagpur Orange Station 15",
-        "city": "Nagpur",
-        "line": "Orange",
-        "network": "Nagpur Metro"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          79.0656,
-          21.0825
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Nagpur Orange Station 16",
-        "city": "Nagpur",
-        "line": "Orange",
-        "network": "Nagpur Metro"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          79.0628,
-          21.0744
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Khapri",
-        "city": "Nagpur",
-        "line": "Orange",
-        "network": "Nagpur Metro"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          79.0631,
-          21.0644
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Lokmanya Nagar",
-        "city": "Nagpur",
-        "line": "Aqua",
-        "network": "Nagpur Metro"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          78.9883,
-          21.135
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Nagpur Aqua Station 2",
-        "city": "Nagpur",
-        "line": "Aqua",
-        "network": "Nagpur Metro"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          79.0083,
-          21.1367
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Nagpur Aqua Station 3",
-        "city": "Nagpur",
-        "line": "Aqua",
-        "network": "Nagpur Metro"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          79.0283,
-          21.1383
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Nagpur Aqua Station 4",
-        "city": "Nagpur",
-        "line": "Aqua",
-        "network": "Nagpur Metro"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          79.0483,
-          21.14
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Nagpur Aqua Station 5",
-        "city": "Nagpur",
-        "line": "Aqua",
-        "network": "Nagpur Metro"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          79.0583,
-          21.1408
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Nagpur Aqua Station 6",
-        "city": "Nagpur",
-        "line": "Aqua",
-        "network": "Nagpur Metro"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          79.0683,
-          21.1417
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Nagpur Aqua Station 7",
-        "city": "Nagpur",
-        "line": "Aqua",
-        "network": "Nagpur Metro"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          79.0767,
-          21.1425
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Sitabuldi Interchange",
-        "city": "Nagpur",
-        "line": "Aqua",
-        "network": "Nagpur Metro"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          79.0831,
-          21.1444
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Nagpur Aqua Station 9",
-        "city": "Nagpur",
-        "line": "Aqua",
-        "network": "Nagpur Metro"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          79.1,
-          21.1453
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Nagpur Aqua Station 10",
-        "city": "Nagpur",
-        "line": "Aqua",
-        "network": "Nagpur Metro"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          79.1086,
-          21.1456
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Nagpur Aqua Station 11",
-        "city": "Nagpur",
-        "line": "Aqua",
-        "network": "Nagpur Metro"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          79.1172,
-          21.1458
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Nagpur Aqua Station 12",
-        "city": "Nagpur",
-        "line": "Aqua",
-        "network": "Nagpur Metro"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          79.1256,
-          21.1461
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Nagpur Aqua Station 13",
-        "city": "Nagpur",
-        "line": "Aqua",
-        "network": "Nagpur Metro"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          79.1336,
-          21.1464
+          79.083725,
+          21.1616305
         ]
       }
     },
@@ -838,238 +246,958 @@
       "properties": {
         "name": "Prajapati Nagar",
         "city": "Nagpur",
-        "line": "Aqua",
-        "network": "Nagpur Metro"
+        "network": "Nagpur Metro",
+        "line": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          79.1414,
-          21.1467
+          79.148823,
+          21.1501485
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Challaghatta",
-        "city": "Bengaluru",
-        "line": "Purple",
-        "network": "Bengaluru Metro"
+        "name": "New Airport",
+        "city": "Nagpur",
+        "network": "Nagpur Metro",
+        "line": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.4683,
-          12.9186
+          79.0558315,
+          21.0660407
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Nadaprabhu Majestic",
-        "city": "Bengaluru",
-        "line": "Purple",
-        "network": "Bengaluru Metro"
+        "name": "Kasturchand Park",
+        "city": "Nagpur",
+        "network": "MahaMetro",
+        "line": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.5739,
-          12.9772
+          79.081477,
+          21.1543646
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Bengaluru Purple Station 3",
-        "city": "Bengaluru",
-        "line": "Purple",
-        "network": "Bengaluru Metro"
+        "name": "Zero Mile",
+        "city": "Nagpur",
+        "network": "MahaMetro",
+        "line": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.6067,
-          12.9753
+          79.0806347,
+          21.1466946
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Bengaluru Purple Station 4",
-        "city": "Bengaluru",
-        "line": "Purple",
-        "network": "Bengaluru Metro"
+        "name": "Sitabuldi",
+        "city": "Nagpur",
+        "network": "MahaMetro",
+        "line": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.6521,
-          12.9867
+          79.0824843,
+          21.1414478
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Whitefield",
-        "city": "Bengaluru",
-        "line": "Purple",
-        "network": "Bengaluru Metro"
+        "name": "Chhatrapati Square",
+        "city": "Nagpur",
+        "network": "Nagpur Metro",
+        "line": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.7514,
-          12.9697
+          79.0696114,
+          21.109139
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Nagasandra",
-        "city": "Bengaluru",
-        "line": "Green",
-        "network": "Bengaluru Metro"
+        "name": "Ajni Square",
+        "city": "Nagpur",
+        "network": "Nagpur Metro",
+        "line": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.5122,
-          13.0503
+          79.0721071,
+          21.1182122
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Bengaluru Green Station 2",
-        "city": "Bengaluru",
-        "line": "Green",
-        "network": "Bengaluru Metro"
+        "name": "Ujjwal Nagar",
+        "city": "Nagpur",
+        "network": "MahaMetro",
+        "line": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.5519,
-          13.0131
+          79.0663192,
+          21.0963504
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Nadaprabhu Majestic",
-        "city": "Bengaluru",
-        "line": "Green",
-        "network": "Bengaluru Metro"
+        "name": "Jaiprakash Nagar",
+        "city": "Nagpur",
+        "network": "MahaMetro",
+        "line": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.5739,
-          12.9772
+          79.068179,
+          21.1036395
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Bengaluru Green Station 4",
-        "city": "Bengaluru",
-        "line": "Green",
-        "network": "Bengaluru Metro"
+        "name": "Airport",
+        "city": "Nagpur",
+        "network": "Nagpur Metro",
+        "line": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.5819,
-          12.93
+          79.0637884,
+          21.0862162
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Silk Institute",
-        "city": "Bengaluru",
-        "line": "Green",
-        "network": "Bengaluru Metro"
+        "name": "Airport South",
+        "city": "Nagpur",
+        "network": "Nagpur Metro",
+        "line": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.5303,
-          12.8461
+          79.0605257,
+          21.0790559
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Versova",
+        "name": "Khapri",
+        "city": "Nagpur",
+        "network": "MahaMetro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0478446,
+          21.0493478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Institute of Engineers",
+        "city": "Nagpur",
+        "network": "MahaMetro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0700943,
+          21.1383147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jhasi Rani Square",
+        "city": "Nagpur",
+        "network": "MahaMetro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0778268,
+          21.1407181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rachna Ring Road",
+        "city": "Nagpur",
+        "network": "MahaMetro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0294117,
+          21.121523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vasudev Nagar",
+        "city": "Nagpur",
+        "network": "Nagpur Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0194659,
+          21.1187853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bansi Nagar",
+        "city": "Nagpur",
+        "network": "MahaMetro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0126033,
+          21.1161997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lokmanya Nagar",
+        "city": "Nagpur",
+        "network": "MahaMetro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.001754,
+          21.1108046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shankar Nagar Square",
+        "city": "Nagpur",
+        "network": "Nagpur Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0616442,
+          21.1362125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LAD College",
+        "city": "Nagpur",
+        "network": "Nagpur Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.054798,
+          21.1329162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ambazari Lake",
+        "city": "Nagpur",
+        "network": "Nagpur Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0457448,
+          21.1286919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Subhash Nagar",
+        "city": "Nagpur",
+        "network": "Nagpur Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0420532,
+          21.1233162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chembur",
         "city": "Mumbai",
-        "line": "Blue",
-        "network": "Mumbai Metro"
+        "network": "Mumbai Metro Line 2",
+        "line": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          72.8153,
-          19.1311
+          72.8928064,
+          19.0541298
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Andheri",
+        "name": "Dahanukarwadi",
         "city": "Mumbai",
-        "line": "Blue",
-        "network": "Mumbai Metro"
+        "network": "Mumbai Metro",
+        "line": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          72.8513,
-          19.1197
+          72.8348068,
+          19.2062315
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Ghatkopar",
+        "name": "Kandivali (West)",
         "city": "Mumbai",
-        "line": "Blue",
-        "network": "Mumbai Metro"
+        "network": "Mumbai Metro",
+        "line": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          72.9086,
-          19.0858
+          72.8373054,
+          19.2140036
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Dahisar East",
+        "name": "Borivali (West)",
         "city": "Mumbai",
-        "line": "Yellow/Red",
-        "network": "Mumbai Metro"
+        "network": "Mumbai Metro",
+        "line": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          72.8631,
-          19.2558
+          72.8408607,
+          19.2313925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mandapeshwar - I.C. Colony",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8458001,
+          19.2495856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kandarpada",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.850504,
+          19.2566337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anand Nagar",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8663486,
+          19.2572087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Diamond Garden",
+        "city": "Mumbai",
+        "network": "Mumbai Metro Line 2",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9018378,
+          19.0517191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shimpoli",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8409432,
+          19.2228332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eksar",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8434456,
+          19.2403773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CSMI Airport International T2",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8744692,
+          19.1023335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bandra Kurla Complex (BKC)",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8546797,
+          19.0606629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SEEPZ",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8737266,
+          19.1259985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MIDC - Andheri",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8735966,
+          19.1173537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marol Naka (Line 3)",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.878578,
+          19.1085041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Andheri L1",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8488433,
+          19.1205638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kapurbawdi Station",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9774245,
+          19.2241429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gaimukh Station",
+        "city": "Mumbai",
+        "network": "Mumbai Metro Green Line",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9468083,
+          19.2844346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gowniwada Station",
+        "city": "Mumbai",
+        "network": "Mumbai Metro Line 4",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9582272,
+          19.2767469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lokmanya Nagar Bus Depot",
+        "city": "Mumbai",
+        "network": "Thane Ring Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9514605,
+          19.2088584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Azad Nagar Bus Stop",
+        "city": "Mumbai",
+        "network": "Thane Ring Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9809993,
+          19.2410366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teen Hath Naka Station",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9615868,
+          19.1870457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Subhash Chandra Bose Ground",
+        "city": "Mumbai",
+        "network": "Mumbai Metro Red Line",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8431291,
+          19.294238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Airport Colony Station",
+        "city": "Mumbai",
+        "network": "Mumbai Metro Line 7A",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.854017,
+          19.1058178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anik Nagar Bus Depot Station",
+        "city": "Mumbai",
+        "network": "Mumbai Metro Line 4",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8786341,
+          19.0458265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manpada",
+        "city": "Mumbai",
+        "network": "Thane Ring Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9712987,
+          19.235478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dahisar (East) [Line 7]",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8666664,
+          19.2506981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dahisar (East) [Line 2]",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8673322,
+          19.2517331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aarey",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8587918,
+          19.1693242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dindoshi",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8582976,
+          19.1797579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kurar",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8584547,
+          19.1872999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Akurli",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8604905,
+          19.1981585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Poisar",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8631041,
+          19.2035171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Magathane",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8668012,
+          19.2167968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Devipada",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8643251,
+          19.2240357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rashtriya Udyan",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8630608,
+          19.2348129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ovaripada",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8641377,
+          19.2431487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shahid Bhagat Singh Garden",
+        "city": "Mumbai",
+        "network": "Mumbai Metro Red Line",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.849362,
+          19.2948117
         ]
       }
     },
@@ -1078,78 +1206,2558 @@
       "properties": {
         "name": "Gundavali",
         "city": "Mumbai",
-        "line": "Red",
-        "network": "Mumbai Metro"
+        "network": "Mumbai Metro",
+        "line": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          72.855,
-          19.1156
+          72.8551556,
+          19.1145125
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "CSMT",
+        "name": "Mogra",
         "city": "Mumbai",
-        "line": "Aqua",
-        "network": "Mumbai Metro"
+        "network": "Mumbai Metro",
+        "line": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          72.8353,
-          18.9402
+          72.8554558,
+          19.1284364
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "BKC",
+        "name": "Jogeshwari (East)",
         "city": "Mumbai",
-        "line": "Aqua",
-        "network": "Mumbai Metro"
+        "network": "Mumbai Metro",
+        "line": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          72.8656,
-          19.0667
+          72.855185,
+          19.1429455
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Esplanade",
-        "city": "Kolkata",
-        "line": "North-South/East-West",
-        "network": "Kolkata Metro"
+        "name": "Goregaon (East)",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          88.3511,
-          22.5636
+          72.8565966,
+          19.1524492
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Howrah Maidan",
-        "city": "Kolkata",
-        "line": "East-West",
-        "network": "Kolkata Metro"
+        "name": "Andheri (West)",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          88.3286,
-          22.5714
+          72.8314307,
+          19.1291337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lower Oshiwara",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8317139,
+          19.1406979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oshiwara",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.833952,
+          19.1460351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Goregaon (West)",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8356664,
+          19.1530241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lower Malad",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8364801,
+          19.1730984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malad (West)",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8358611,
+          19.1852851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valnai-Meeth Chowky",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8337752,
+          19.1968293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CBD Belapur",
+        "city": "Mumbai",
+        "network": "Navi Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0402663,
+          19.0205999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "RBI Colony",
+        "city": "Mumbai",
+        "network": "Navi Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0479433,
+          19.0229846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bandra Colony",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8493601,
+          19.0699627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santacruz",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8471185,
+          19.0792887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CSMI Airport Domestic T1",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8535765,
+          19.093899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sahar Road",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8652361,
+          19.102196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bangur Nagar",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8348708,
+          19.1624723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dadar",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8392214,
+          19.0236238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shitala Devi Mandir",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8419646,
+          19.0384641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dharavi",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.849741,
+          19.0462612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Acharya Atre Chowk",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8177201,
+          18.9978202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Worli",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8192741,
+          19.0086057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Siddhivinayak Temple",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8309199,
+          19.0158935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jagannath Shankar Sheth Metro",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8211795,
+          18.9699923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mahalaxmi",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8254006,
+          18.979467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Science Centre",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8213521,
+          18.9908949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cuffe Parade",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8207152,
+          18.9135692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vidhan Bhavan",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8254934,
+          18.9247813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Churchgate",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8269394,
+          18.9314946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hutatma Chowk",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8325037,
+          18.9341849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chhatrapati Shivaji Maharaj Terminus",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.831861,
+          18.9408329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kalbadevi",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.827193,
+          18.946329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Girgaon",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8222065,
+          18.9521015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grant Road",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8180437,
+          18.9632181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mandale",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9386763,
+          19.0495787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shivaji Chowk",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9069806,
+          19.0479383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BSNL",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9175244,
+          19.0448287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mankhurd",
+        "city": "Mumbai",
+        "network": "Mumbai Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9311514,
+          19.049192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wagle Circle",
+        "city": "Mumbai",
+        "network": "Thane  Ring Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9492497,
+          19.1962836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shivai Nagar",
+        "city": "Mumbai",
+        "network": "Thane Ring Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9541706,
+          19.2173904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neelkanth Terminal",
+        "city": "Mumbai",
+        "network": "Thane Ring Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9593918,
+          19.2211866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ghandi Nagar",
+        "city": "Mumbai",
+        "network": "Thane Ring Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9675181,
+          19.2191133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dr. Kashinath Ghanekar Natyagruha",
+        "city": "Mumbai",
+        "network": "Thane Ring Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9698844,
+          19.2291679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dongripada",
+        "city": "Mumbai",
+        "network": "Thane Ring Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9747318,
+          19.2487708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vijay Nagari",
+        "city": "Mumbai",
+        "network": "Thane Ring Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9735187,
+          19.2554671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waghbil",
+        "city": "Mumbai",
+        "network": "Thane Ring Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9794268,
+          19.2639208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waterfront",
+        "city": "Mumbai",
+        "network": "Thane Ring Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9884092,
+          19.2624949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Patlipada",
+        "city": "Mumbai",
+        "network": "Thane Ring Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9831819,
+          19.247301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Madavara",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4728055,
+          13.0574214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chikkabidarakallu",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4879154,
+          13.0523616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manjunathanagara",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4944461,
+          13.0500898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jayadeva Hospital",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5999663,
+          12.916731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Whitefield (Kadugodi)",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": "#e542de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7579489,
+          12.9957428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hopefarm Channasandra",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": "#e542de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7538033,
+          12.9873426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pattandur Agrahara",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": "#e542de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7377718,
+          12.9876393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sri Sathya Sai Hospital",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": "#e542de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7275361,
+          12.9811949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nallurahalli",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": "#e542de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7248845,
+          12.9766408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kundalahalli",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": "#e542de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7155586,
+          12.977594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seetharampalya",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7087854,
+          12.9808558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hoodi",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": "#e542de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.711326,
+          12.9888029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Garudacharpalya",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": "#e542de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7036768,
+          12.9934505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Singayyanapalya",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": "#e542de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6927176,
+          12.9965445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krishnarajapura",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": "#e542de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6776703,
+          12.9999024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Benniganahalli",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6684619,
+          12.9965158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delta Electronics Bommasandra",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6883453,
+          12.8193944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Huskur Road",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6773716,
+          12.8391572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Infosys Foundation Konappana Agrahara",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6711655,
+          12.8464134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Electronic City",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6635228,
+          12.8565053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beratena Agrahara",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6578624,
+          12.8638665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hosa Road",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.652447,
+          12.8707491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Singasandra",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6448456,
+          12.8808178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kudlu Gate",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6392156,
+          12.8899259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hongasandra",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6319861,
+          12.9016952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bommanahalli",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6264782,
+          12.9106157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Central Silk Board",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.620567,
+          12.9165816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BTM Layout",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6081182,
+          12.9165878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ragigudda",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5883015,
+          12.9170807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dasarahalli",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5125535,
+          13.0432607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jalahalli",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5197351,
+          13.0394104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Srirampura",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5631963,
+          12.9965253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baiyappanahalli",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6523612,
+          12.9907594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Swami Vivekananda Road",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.644897,
+          12.9859306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Indiranagar",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6386612,
+          12.9783325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Halasuru",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.626686,
+          12.9764992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinity",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6170205,
+          12.9730218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mahatma Gandhi Road",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6067902,
+          12.9755264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cubbon Park",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5975756,
+          12.9809575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dr. B. R. Ambedkar Station, Vidhana Soudha",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5916385,
+          12.9787419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sir M. Visvesvaraya Stn., Central College",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.58422,
+          12.9745197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nadaprabhu Kempegowda Station, Majestic",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5728757,
+          12.9757079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krantivira Sangolli Rayanna Railway Station",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5653767,
+          12.9758768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Magadi Road",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5553523,
+          12.975632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sri Balagangadharanatha Swamiji Station, Hosahalli",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5456215,
+          12.9742933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vijayanagar",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5374044,
+          12.9709559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Attiguppe",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5335788,
+          12.9618931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Deepanjali Nagar",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5370122,
+          12.9520578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mysore Road",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5301588,
+          12.9467183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mantri Square Sampige Road",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5707293,
+          12.9904629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mahakavi Kuvempu Road",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5568986,
+          12.9985297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rajajinagar",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5496568,
+          13.0005247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mahalakshmi",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5488066,
+          13.0080475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandal Soap Factory",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5539839,
+          13.0146544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peenya",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.533201,
+          13.0330189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peenya Industry",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5254924,
+          13.0363176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yelachenahalli",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5701194,
+          12.8960498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jaya Prakash Nagar",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5731279,
+          12.9074747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Banashankari",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.573598,
+          12.9152208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rashtreeya Vidyalaya Road",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5802015,
+          12.9215807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jayanagar",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5801439,
+          12.9295069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South End Circle",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5800556,
+          12.9382573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lalbagh",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.580016,
+          12.9465265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "National College",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5736898,
+          12.9505266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krishna Rajendra Market",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5746578,
+          12.9608788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chickpete",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5745566,
+          12.9668974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jnanabharathi",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5124063,
+          12.9354357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pantharapalya - Nayandahalli",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5251166,
+          12.9416715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kengeri Bus Terminal",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4878557,
+          12.914689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kengeri",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4765784,
+          12.9079105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rajarajeshwari Nagar",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5196788,
+          12.9365996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pattanagere",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4983509,
+          12.9242505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Challaghatta",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4612877,
+          12.8973539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Silk Institute",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5299545,
+          12.8617298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thalaghattapura",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5383958,
+          12.8714097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vajarahalli",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5447414,
+          12.8774369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Doddakallasandra",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5527546,
+          12.8846435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Konanakunte Cross",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5626665,
+          12.8889671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Biocon Hebbagodi",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6813744,
+          12.8290325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nagasandra",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5001422,
+          13.0479536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yeshwantpur",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5498751,
+          13.0232678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kadugodi Tree Park",
+        "city": "Bengaluru",
+        "network": "Namma Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7470121,
+          12.9856503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Central",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3587427,
+          22.5724857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Park Street",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3501171,
+          22.5551591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kavi Nazrul",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3804604,
+          22.4642505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shahid Khudiram",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3915408,
+          22.4659847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kavi Subhash (Blue Line)",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.397961,
+          22.4721697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Netaji",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3460002,
+          22.4809928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mahanayak Uttam Kumar",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3450879,
+          22.4947692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dum Dum",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3928973,
+          22.6211141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rabindra Sarobar",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3454936,
+          22.5072216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kalighat",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3458448,
+          22.5168752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jatin Das Park",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3464729,
+          22.5241535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Netaji Bhavan",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3459269,
+          22.5331821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rabindra Sadan",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3473493,
+          22.5414899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maidan",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3487883,
+          22.5494672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chandni Chowk",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3541581,
+          22.5670118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Esplanade (Line 1)",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3512099,
+          22.5636143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mahatma Gandhi Road",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3613271,
+          22.5809206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Girish Park",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3629415,
+          22.5871445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shobhabazar Sutanuti",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3651996,
+          22.595881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shyambazar",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3724974,
+          22.601335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belgachia",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3863913,
+          22.6059241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Noapara",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3941343,
+          22.6398418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nalban Metro Station",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4212209,
+          22.5733404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karunamoyee",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4215312,
+          22.58638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Central Park",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4156247,
+          22.5904737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "City Centre",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4078908,
+          22.5870993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bengal Chemical",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4012962,
+          22.5800666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salt Lake Stadium",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4030891,
+          22.5731115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phoolbagan",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3902408,
+          22.5721268
         ]
       }
     },
@@ -1158,30 +3766,302 @@
       "properties": {
         "name": "Salt Lake Sector V",
         "city": "Kolkata",
-        "line": "East-West",
-        "network": "Kolkata Metro"
+        "network": "Kolkata Metro",
+        "line": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          88.4286,
-          22.5714
+          88.4290872,
+          22.5809434
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Dakshineswar",
+        "name": "Baranagar",
         "city": "Kolkata",
-        "line": "North-South",
-        "network": "Kolkata Metro"
+        "network": "Kolkata Metro",
+        "line": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          88.3514,
-          22.6514
+          88.3805962,
+          22.6530765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Behala Bazar",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3173872,
+          22.4987585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Behala Chowrasta",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3133794,
+          22.4873548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sealdah",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3697815,
+          22.5666059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dakshineshwar",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3637533,
+          22.6540325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thakurpukur",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3075322,
+          22.4643677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sakher Bazar",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3099593,
+          22.4748533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taratala",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3203842,
+          22.5076863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Joka",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3018236,
+          22.452347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hemanta Mukhopadhyay",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4014276,
+          22.5148514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kavi Sukanta",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4009957,
+          22.5053017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jyotirindra Nandi",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.398449,
+          22.4956263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Satyajit Ray",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3926447,
+          22.4846775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mahakaran",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3505275,
+          22.5720777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Howrah",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3403452,
+          22.5833648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Howrah Maidan",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3339983,
+          22.5838585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Majerhat",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3236555,
+          22.5191466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Esplanade (Line 2)",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3502752,
+          22.5641292
         ]
       }
     },
@@ -1190,142 +4070,622 @@
       "properties": {
         "name": "Kavi Subhash",
         "city": "Kolkata",
-        "line": "North-South",
-        "network": "Kolkata Metro"
+        "network": "Kolkata Metro",
+        "line": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          88.3914,
-          22.4614
+          88.3980989,
+          22.4711093
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Ameerpet",
-        "city": "Hyderabad",
-        "line": "Red/Blue",
-        "network": "Hyderabad Metro"
+        "name": "Beleghata",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          78.4483,
-          17.4375
+          88.4039852,
+          22.5507084
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Miyapur",
-        "city": "Hyderabad",
-        "line": "Red",
-        "network": "Hyderabad Metro"
+        "name": "Barun Sengupta",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          78.3514,
-          17.4936
+          88.3992762,
+          22.5438072
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Raidurg",
-        "city": "Hyderabad",
-        "line": "Blue",
-        "network": "Hyderabad Metro"
+        "name": "Ritwik Ghatak",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          78.3714,
-          17.4436
+          88.3964191,
+          22.5329995
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "MGBS",
-        "city": "Hyderabad",
-        "line": "Red/Green",
-        "network": "Hyderabad Metro"
+        "name": "VIP Bazar",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          78.4814,
-          17.3736
+          88.3962331,
+          22.5246847
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Chennai Central",
-        "city": "Chennai",
-        "line": "Blue/Green",
-        "network": "Chennai Metro"
+        "name": "Jai Hind",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          80.2742,
-          13.0822
+          88.4373029,
+          22.6473058
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Airport",
-        "city": "Chennai",
-        "line": "Blue",
-        "network": "Chennai Metro"
+        "name": "Jessore Road",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          80.1742,
-          12.9936
+          88.4297701,
+          22.6392646
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Alandur",
-        "city": "Chennai",
-        "line": "Blue/Green",
-        "network": "Chennai Metro"
+        "name": "Dum Dum Cantonment",
+        "city": "Kolkata",
+        "network": "Kolkata Metro",
+        "line": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          80.2014,
-          13.0036
+          88.4121618,
+          22.6375936
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Wimco Nagar",
-        "city": "Chennai",
-        "line": "Blue",
-        "network": "Chennai Metro"
+        "name": "Ambabadi Metro (u/c)",
+        "city": "Jaipur",
+        "network": "Jaipur Metro",
+        "line": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          80.3014,
-          13.1611
+          75.7777965,
+          26.9397287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sindhi Camp",
+        "city": "Jaipur",
+        "network": "Jaipur Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.799635,
+          26.9224737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Railway Station",
+        "city": "Jaipur",
+        "network": "Jaipur Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.790129,
+          26.9181132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Civil Lines",
+        "city": "Jaipur",
+        "network": "Jaipur Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7812494,
+          26.9096783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chandpole",
+        "city": "Jaipur",
+        "network": "Jaipur Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.807892,
+          26.9266005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Choti Chaupar",
+        "city": "Jaipur",
+        "network": "Jaipur Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8184589,
+          26.9247317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Badi Chaupar",
+        "city": "Jaipur",
+        "network": "Jaipur Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8268223,
+          26.9229585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manasarovar",
+        "city": "Jaipur",
+        "network": "Jaipur Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7502389,
+          26.8794402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shyam Nagar",
+        "city": "Jaipur",
+        "network": "Jaipur Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7706279,
+          26.8964768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vivek Vihar",
+        "city": "Jaipur",
+        "network": "Jaipur Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.768407,
+          26.8884539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Aatish Market",
+        "city": "Jaipur",
+        "network": "Jaipur Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.764466,
+          26.880154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gurudev Chauraha",
+        "city": "Kanpur",
+        "network": "Kanpur Metro",
+        "line": "orange"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2843697,
+          26.4915749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bada Chauraha",
+        "city": "Kanpur",
+        "network": "Kanpur Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3523972,
+          26.4726897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vishwavidyalaya",
+        "city": "Kanpur",
+        "network": "Kanpur Metro",
+        "line": "orange"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.267272,
+          26.496489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rawatpur",
+        "city": "Kanpur",
+        "network": "Kanpur Metro",
+        "line": "orange"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3000734,
+          26.4828664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Naveen Market",
+        "city": "Kanpur",
+        "network": "Kanpur Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3454472,
+          26.4740673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Geeta Nagar",
+        "city": "Kanpur",
+        "network": "Kanpur Metro",
+        "line": "orange"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2921052,
+          26.4870224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SPM Hospital",
+        "city": "Kanpur",
+        "network": "Kanpur Metro",
+        "line": "orange"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2589004,
+          26.4988957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IIT Kanpur",
+        "city": "Kanpur",
+        "network": "Kanpur Metro",
+        "line": "orange"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2483111,
+          26.5092071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chunniganj",
+        "city": "Kanpur",
+        "network": "Kanpur Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3370699,
+          26.4770395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nayaganj",
+        "city": "Kanpur",
+        "network": "Kanpur Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3595041,
+          26.4641599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LLR Hospital",
+        "city": "Kanpur",
+        "network": "Kanpur Metro",
+        "line": "orange"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.311601,
+          26.4792656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kalyanpur",
+        "city": "Kanpur",
+        "network": "Kanpur Metro",
+        "line": "orange"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2525656,
+          26.5037242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moti Jheel",
+        "city": "Kanpur",
+        "network": "Kanpur Metro",
+        "line": "orange"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3178935,
+          26.4791286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kanpur Central",
+        "city": "Kanpur",
+        "network": "Kanpur Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3517886,
+          26.4538778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taj East Gate",
+        "city": "Agra",
+        "network": "Agra Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0579059,
+          27.1584153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mankameshwar",
+        "city": "Agra",
+        "network": "Agra Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0178819,
+          27.177536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Basai",
+        "city": "Agra",
+        "network": "Agra Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0507366,
+          27.1578436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fatehabad Road",
+        "city": "Agra",
+        "network": "Agra Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0427027,
+          27.1601993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Agra Fort Station",
+        "city": "Agra",
+        "network": "Agra Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0222048,
+          27.1749679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taj Mahal",
+        "city": "Agra",
+        "network": "Agra Metro",
+        "line": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0355997,
+          27.168399
         ]
       }
     }
